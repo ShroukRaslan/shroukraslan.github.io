@@ -1,0 +1,84 @@
+ body {
+   background-image: url('../Images/si.jpg');
+          background-size:cover;
+}
+        .form{
+            display: block;
+            width: 500px;
+            height:600px;
+            background-color: rgba(2,2,2,0.5);
+            text-align: center;
+            margin: 35% 45% 45% 45%;
+            border-radius: 25px;
+            border: 0 solid #73AD21;
+            padding: 20px; 
+        }
+        .form h2{
+            color: #FFF;
+            font-style: italic;
+            margin-top: 20px;
+        }
+        .form .Name
+        {
+            background-color: rgba(2,2,2,0.5); 
+            margin-left: 15px;
+            margin-right: 15px;
+            border-radius: 25px;
+        }
+        .form .Password{
+            background-color: rgba(2,2,2,0.5) ;
+            margin-left: 15px;
+            margin-right: 15px;
+            margin-top: 10px;
+            border-radius: 25px;
+        }
+        .form img{
+            margin-top: 10px;
+           
+        }
+      .form  a {
+          display: inline-block;
+          margin-left: 15px;
+          border: none;;
+          color: #FFF;
+       }
+        
+      .form input[type="text"]{
+        background-color: rgba(2,2,2,0.5);
+        color: #FFF;
+        padding: 10px;
+        border: 0;
+        width:80%;
+        margin-bottom: 10px;
+       }
+     .form input[type="submit"]{
+            display: inline-block;
+         background-color: cornflowerblue;
+         border: 0;
+         color: aliceblue;
+         margin-top: 20px;
+         height: 30px;
+         width: 70px;
+         border-radius: 25px;
+        }
+
+      .form .Log {
+            background-color: rgba(2,2,2,0.5);
+            margin-left: 15px;
+            margin-bottom: 0;
+            margin-right: 15px;
+            height: 200px;
+            border-radius: 25px;
+        }
+        .form .Log h3 {
+             color: #FFF;
+            font-style: italic;
+            text-align: center;
+            margin-top: 20px;
+            margin-bottom: 0;
+            line-height: 1.7;
+        }
+        
+        .form .Log ul li {
+            display: inline-block;
+        }
