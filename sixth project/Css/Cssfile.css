@@ -257,14 +257,14 @@ body{
 }
 .testim .fa-chevron-left{
     position: absolute;
-     top: 280%;
+     top: 330%;
     left: 0;
     cursor: pointer;
 }
 .testim .fa-chevron-right{
   position: absolute;
     right: 0;
-    top: 280%;
+    top: 330%;
     cursor: pointer;
 }
 .our-team{
